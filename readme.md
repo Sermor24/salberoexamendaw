@@ -8,6 +8,6 @@ Para levantar la estructura debemos seguir los siguientes pasos:
         Sitio Web: http://localhost
         phpMyAdmin: http://localhost:8000
 
-examen de despliegue
+no le sabes
         
 
