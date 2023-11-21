@@ -1,0 +1,11 @@
+# database/Dockerfile
+FROM mysql:5.7
+
+ENV MYSQL_ROOT_PASSWORD=root
+ENV MYSQL_DATABASE=sealmo
+ENV MYSQL_USER=sealmo
+ENV MYSQL_PASSWORD=321cic7,H
+
+COPY ./ /docker-entrypoint-initdb.d/
+
+EXPOSE 3306

@@ -1,0 +1,8 @@
+# adminphp/Dockerfile
+FROM phpmyadmin/phpmyadmin
+
+ENV PMA_HOST=database
+ENV PMA_PORT=3306
+ENV MYSQL_ROOT_PASSWORD=root
+ENV MYSQL_USER=sealmo
+ENV MYSQL_PASSWORD=321cic7,H
