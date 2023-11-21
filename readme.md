@@ -7,5 +7,7 @@ Para levantar la estructura debemos seguir los siguientes pasos:
     3- Luego accede a las aplicaciones: Paso 3: Acceder a las Aplicaciones
         Sitio Web: http://localhost
         phpMyAdmin: http://localhost:8000
+
+examen de despliegue
         
 
